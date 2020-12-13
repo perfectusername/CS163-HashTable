@@ -1,18 +1,3 @@
-/*
-	main.cpp // Main interface program for testing
-
-	This program will keep track of a stack of alerts
-	You can push alerts and pop alerts and peek at the top alert and display
-	all alerts
-
-	Author: Brooke Czerwinski
-	Date:	10/17/2020
-	Class:	CS163
-	Program #3
-
-
-
-*/
 #include "queue.h"
 
 using namespace std;
